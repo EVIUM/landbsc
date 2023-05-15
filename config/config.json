@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x11a0a4BB24305260D5fb3b62ab496ff6947133A1",
+  "SCAN_LINK": "https://bscscan.com/token/0x11a0a4BB24305260D5fb3b62ab496ff6947133A1",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "EVIUM LAND",
+  "SYMBOL": "EVELAND",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://evium.org",
+  "SHOW_BACKGROUND": true
+}
